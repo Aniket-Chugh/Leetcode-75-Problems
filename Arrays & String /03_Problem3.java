@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-public class candy {
+public class Problem3 {
         public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
             List<Boolean> result = new ArrayList<>();
             int maxCandies = 0;
