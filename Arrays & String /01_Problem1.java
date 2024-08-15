@@ -1,4 +1,4 @@
-class Solution {
+class Problem1 {
     public String mergeAlternately(String word1, String word2) {
      String newStr = "";
             int MinLenght = Math.min(word1.length(), word2.length());
